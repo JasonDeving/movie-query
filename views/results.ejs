@@ -1,7 +1,7 @@
 <h1>Movies List</h1>
 
 <% data["Search"].forEach(function(movie){ %>
-    <li> <%= movie["Title"] %> </li>
+    <li> <a href="<%= movie["Poster"]%>"><%= movie["Title"] %></a> </li>
 <% }) %>
-
+<br>
 <a href="/">Go Back</a>
