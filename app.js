@@ -18,6 +18,6 @@ app.get("/results", function(req, res){
     });
 });
 
-app.listen(process.env.PORT, process.env.IP, function(){
+app.listen(3000, 'localhost', function(){
     console.log('server has started localhost:3000');
 });
