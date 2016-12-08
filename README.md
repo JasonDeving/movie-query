@@ -2,7 +2,7 @@
 Simple Get App to Create a Search
 movie query app with omdb api GET request with nodejs
 <br><br>
-<b>Do Following Commands below in terminal</b>
+<b>Do The Following Commands below in terminal</b>
 
 ```js
 git clone https://github.com/JasonDeving/movie-query.git
